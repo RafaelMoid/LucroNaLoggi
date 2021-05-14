@@ -21,8 +21,7 @@ class MainActivity : AppCompatActivity() {
         var valorKm = valorKm
         var valorReal = valorReal
         var valorLitro = valorLitro
-        val result = valorKm.
-            resultado.setText()
+        val result = valorKm
 
         }
 
